@@ -17,7 +17,7 @@ This way you can read all the details at any time
 
 This application will be most using by the transporting dealer because at this time petrol & diesel is very much stolen by Driver.
 
-So using this application you  can prevent stole.
+So using this application you  can prevent stole..
 
 ![1](https://user-images.githubusercontent.com/96327504/146634050-55717919-2c76-4678-8506-61fa1fc0acce.jpg)
 ![2](https://user-images.githubusercontent.com/96327504/146634053-7e0253d6-e4a2-440a-92d3-786dcad40b4a.jpg)
