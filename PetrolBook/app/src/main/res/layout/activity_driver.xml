@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Driver"
+    android:background="@color/teal_200">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+        <EditText
+            android:id="@+id/e1"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:text=""
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:hint="Name"/>
+
+        <EditText
+            android:id="@+id/e2"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:text=""
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:hint="Mobile Number"/>
+        <EditText
+            android:id="@+id/e3"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:text=""
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:hint="Vehicle Number"/>
+        <EditText
+            android:id="@+id/e4"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:text=""
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:hint="Starting Kilometer"/>
+        <EditText
+            android:id="@+id/e5"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:text=""
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:hint="Date"/>
+        <EditText
+            android:id="@+id/e6"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:text=""
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:hint="Price"/>
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="25dp"
+            android:text="Submit"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/white"
+            android:onClick="fun"/>
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="25dp"
+            android:text="Admin"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:textColor="@color/white"
+            android:onClick="fun1"/>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
