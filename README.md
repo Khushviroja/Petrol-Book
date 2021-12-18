@@ -1,23 +1,24 @@
 # Petrol-Book
 
 
-This Petrol Book android app is using to save petrol & Disel filling details.
+This Petrol Book android app is using to save petrol & Diesel filling details.
 
-All you have to do is open the PetrolBook app and fillup all the details in it step by step.
+All you have to do is open the Petrol Book app and fill up all the details in it step by step.
 
-step of filling:
-1. You have to fillup your name.
-2. You have to fillup your 10 digit mobile no.
-3.You have to fillup your Vehicle no.
-4. You have to fillup your Bike/ Car's Starting Kilometer
-5. You have to fillup Petrol / Diesel Filling Date.
-6. And Last You have to fillup Petrol / Diesel Price at time of Filling
+Step of filling:
+1. You have to fill up your name.
+2. You have to fill up your 10 digit mobile no.
+3. You have to fill up your Vehicle no.
+4. You have to fill up your Bike/ Car's Starting Kilometer
+5. You have to fill up Petrol / Diesel Filling Date.
+6. And last you have to fill up Petrol / Diesel Price at time of Filling
 
 This way you can read all the details at any time
 
 This application will be most using by the transporting dealer because at this time petrol & diesel is very much stolen by Driver.
 
-So using this application you  can prevent stole..
+So using this application you can prevent stole.
+.
 
 ![1](https://user-images.githubusercontent.com/96327504/146634050-55717919-2c76-4678-8506-61fa1fc0acce.jpg)
 ![2](https://user-images.githubusercontent.com/96327504/146634053-7e0253d6-e4a2-440a-92d3-786dcad40b4a.jpg)
